@@ -14,7 +14,7 @@ el archivo de pdf con su cheatsheet en formato de pdf.
 ---
 
 ## Tareas para Jorge: Bases de Datos SQL
-- ✅ Crear una rama para base de datos NoSQL (MySQL, PostgreSQL, Oracle)
+- ✅ Crear una rama para base de datos SQL (MySQL, PostgreSQL, Oracle)
 - ✅ Cada rama de las base de datos SQL debe contener: un README.md el cual contenga
 una breve explicacion de esa base datos, caracteristicas, ventajas y desventajas. Y adjuntar
 el archivo de pdf con su cheatsheet en formato de pdf.   
