@@ -5,8 +5,22 @@ Este proyecto contiene **hojas de trucos (cheat sheets)** esenciales para trabaj
 
 ---
 
+## Tareas para Nelson: Bases de Datos NoSQL
+- ✅ Crear una rama para base de datos NoSQL (MongoDB, Redis, Cassandra)
+- ✅ Cada rama de las base de datos NoSQL debe contener: un README.md el cual contenga
+una breve explicacion de esa base datos, caracteristicas, ventajas y desventajas. Y adjuntar
+el archivo de pdf con su cheatsheet en formato de pdf.    
+
+---
+
+## Tareas para Jorge: Bases de Datos SQL
+- ✅ Crear una rama para base de datos NoSQL (MySQL, PostgreSQL, Oracle)
+- ✅ Cada rama de las base de datos SQL debe contener: un README.md el cual contenga
+una breve explicacion de esa base datos, caracteristicas, ventajas y desventajas. Y adjuntar
+el archivo de pdf con su cheatsheet en formato de pdf.   
+
 ## 📌 ¿Qué encontrarás aquí?
-- ✅ Comandos y sintaxis clave para SQL (MySQL, PostgreSQL, etc.)  
+- ✅ Comandos y sintaxis clave para SQL (MySQL, PostgreSQL, Oracle)  
 - ✅ Operaciones esenciales en NoSQL (MongoDB, Redis, Cassandra)  
 - ✅ Comparativas entre tecnologías  
 - ✅ Ejemplos prácticos listos para usar  
